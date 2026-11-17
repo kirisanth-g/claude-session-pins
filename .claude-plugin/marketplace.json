@@ -1,0 +1,5 @@
+{
+  "name": "claude-session-pins",
+  "owner": { "name": "Kiwi Ganesh" },
+  "plugins": [{ "name": "session-pins", "source": "./" }]
+}

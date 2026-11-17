@@ -1,0 +1,7 @@
+{
+  "name": "session-pins",
+  "version": "1.1.0",
+  "description": "A pane that pins the Jira tickets and GitHub PRs a session works on.",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
